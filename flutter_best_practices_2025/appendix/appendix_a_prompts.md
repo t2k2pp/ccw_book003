@@ -537,7 +537,7 @@ iOS:
 
 ### 5-1. エラー修正
 
-```
+````
 【環境】
 - Flutter: 3.27.x
 - [使用しているパッケージ]
@@ -560,11 +560,11 @@ iOS:
 【参考】
 第12章: トラブルシューティング
 を参照してください。
-```
+````
 
 ### 5-2. パフォーマンス改善
 
-```
+````
 【環境】
 - Flutter: 3.27.x
 - Riverpod 3.x
@@ -591,7 +591,7 @@ iOS:
 【参考】
 第8章: パフォーマンス最適化
 を参照してください。
-```
+````
 
 ---
 
@@ -599,7 +599,7 @@ iOS:
 
 ### 6-1. Clean Architectureへの移行
 
-```
+````
 【環境】
 - Flutter: 3.27.x
 - Riverpod 3.x
@@ -635,11 +635,11 @@ features/[feature_name]/
 【参考】
 第2章: プロジェクト構造とClean Architecture
 を参照してください。
-```
+````
 
 ### 6-2. StateProviderからRiverpod 3.xへの移行
 
-```
+````
 【環境】
 - Flutter: 3.27.x
 - Riverpod 3.x（@riverpod）
@@ -660,7 +660,7 @@ final counterProvider = StateProvider<int>((ref) => 0);
 第3章: 状態管理（Riverpod 3.x）
 第11章: AI開発時の注意点（古い記法と推奨記法の比較）
 を参照してください。
-```
+````
 
 ---
 
@@ -668,7 +668,7 @@ final counterProvider = StateProvider<int>((ref) => 0);
 
 ### 7-1. ユニットテスト作成
 
-```
+````
 【環境】
 - Flutter: 3.27.x
 - Riverpod 3.x
@@ -690,11 +690,11 @@ final counterProvider = StateProvider<int>((ref) => 0);
 【参考】
 第7章: テスト戦略（Riverpod Providerのテスト）
 を参照してください。
-```
+````
 
 ### 7-2. Widgetテスト作成
 
-```
+````
 【環境】
 - Flutter: 3.27.x
 - flutter_test
@@ -715,7 +715,7 @@ final counterProvider = StateProvider<int>((ref) => 0);
 【参考】
 第7章: テスト戦略（Widgetテスト）
 を参照してください。
-```
+````
 
 ---
 
