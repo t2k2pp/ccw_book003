@@ -33,6 +33,7 @@
 | テストコードを書きたい | [第7章](chapters/07_testing.md) |
 | アプリが遅い・重い | [第8章](chapters/08_performance.md) |
 | ネイティブコードと連携したい | [第9章](chapters/09_platform_integration.md) |
+| Android/iOS/Web固有の実装 | [第13章](chapters/13_platform_specific.md) |
 | CI/CDを構築したい | [第10章](chapters/10_ci_cd.md) |
 | AI生成コードの品質を上げたい | [第11章](chapters/11_ai_development_tips.md) |
 | エラーが出て困っている | [第12章](chapters/12_troubleshooting.md) |
@@ -115,6 +116,12 @@
 - プラットフォーム別の問題
 - パッケージ競合の解決
 - パフォーマンス問題の診断
+
+### [第13章: プラットフォーム固有実装（Android/iOS/Web）](chapters/13_platform_specific.md)
+- Android固有の実装とベストプラクティス
+- iOS固有の実装とベストプラクティス
+- Web固有の実装とベストプラクティス
+- プラットフォーム別のUI/UX対応
 
 ---
 
