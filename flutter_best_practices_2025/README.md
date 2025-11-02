@@ -27,6 +27,7 @@
 |------------|----------|
 | プロジェクトを新規作成したい | [第1章](chapters/01_development_environment.md), [第2章](chapters/02_project_structure.md) |
 | アプリを作るプロンプトが欲しい | [付録A](appendix/appendix_a_prompts.md) 📝 |
+| Claude用のCLAUDE.mdを作りたい | [付録B](appendix/appendix_b_claude_md.md) 🤖 |
 | 状態管理の実装方法を知りたい | [第3章](chapters/03_state_management.md) |
 | どのパッケージを使うべきか知りたい | [第4章](chapters/04_essential_packages.md) |
 | 画面遷移を実装したい | [第5章](chapters/05_navigation.md) |
@@ -157,6 +158,20 @@
 - **CI/CD**: GitHub Actions設定
 
 各プロンプトには参照すべき章が明記されており、生成AIに渡す際に最適化されています。
+
+### [付録B: Claude Code用CLAUDE.md作成ガイド](appendix/appendix_b_claude_md.md)
+
+**Claude Codeで自動読み込みされるCLAUDE.mdの作成ガイド**
+
+Flutterプロジェクトに最適なCLAUDE.mdファイルの作成方法を解説：
+
+- **Part 1: 基礎知識**: CLAUDE.mdとは、配置場所、優先順位
+- **Part 2: Flutter開発に必須の項目**: プロジェクト情報、開発環境、コマンド、コードスタイル、アーキテクチャ
+- **Part 3: 任意の項目**: API情報、テスト戦略、CI/CD、プラットフォーム設定、トラブルシューティング
+- **Part 4: プロジェクト規模別テンプレート**: 小規模、中規模、大規模・エンタープライズ
+- **Part 5: カスタマイズのヒント**: 効果的な記述方法、本書との連携
+
+Claude CodeユーザーがAIに正確な開発ガイドを提供できるよう、公式ベストプラクティスとFlutter固有の知識を統合したガイドです。
 
 ## バージョン情報
 
